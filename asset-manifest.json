@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mahjangPointCalcApp/static/css/main.afddd0f4.chunk.css",
-    "main.js": "/mahjangPointCalcApp/static/js/main.b31d774d.chunk.js",
-    "main.js.map": "/mahjangPointCalcApp/static/js/main.b31d774d.chunk.js.map",
-    "runtime-main.js": "/mahjangPointCalcApp/static/js/runtime-main.a6e35aed.js",
-    "runtime-main.js.map": "/mahjangPointCalcApp/static/js/runtime-main.a6e35aed.js.map",
-    "static/js/2.bac9bbc6.chunk.js": "/mahjangPointCalcApp/static/js/2.bac9bbc6.chunk.js",
-    "static/js/2.bac9bbc6.chunk.js.map": "/mahjangPointCalcApp/static/js/2.bac9bbc6.chunk.js.map",
-    "index.html": "/mahjangPointCalcApp/index.html",
-    "static/css/main.afddd0f4.chunk.css.map": "/mahjangPointCalcApp/static/css/main.afddd0f4.chunk.css.map",
-    "static/js/2.bac9bbc6.chunk.js.LICENSE.txt": "/mahjangPointCalcApp/static/js/2.bac9bbc6.chunk.js.LICENSE.txt"
+    "main.css": "/mahjongPointCalcApp/static/css/main.afddd0f4.chunk.css",
+    "main.js": "/mahjongPointCalcApp/static/js/main.791c180e.chunk.js",
+    "main.js.map": "/mahjongPointCalcApp/static/js/main.791c180e.chunk.js.map",
+    "runtime-main.js": "/mahjongPointCalcApp/static/js/runtime-main.64ac16f4.js",
+    "runtime-main.js.map": "/mahjongPointCalcApp/static/js/runtime-main.64ac16f4.js.map",
+    "static/js/2.bac9bbc6.chunk.js": "/mahjongPointCalcApp/static/js/2.bac9bbc6.chunk.js",
+    "static/js/2.bac9bbc6.chunk.js.map": "/mahjongPointCalcApp/static/js/2.bac9bbc6.chunk.js.map",
+    "index.html": "/mahjongPointCalcApp/index.html",
+    "static/css/main.afddd0f4.chunk.css.map": "/mahjongPointCalcApp/static/css/main.afddd0f4.chunk.css.map",
+    "static/js/2.bac9bbc6.chunk.js.LICENSE.txt": "/mahjongPointCalcApp/static/js/2.bac9bbc6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a6e35aed.js",
+    "static/js/runtime-main.64ac16f4.js",
     "static/js/2.bac9bbc6.chunk.js",
     "static/css/main.afddd0f4.chunk.css",
-    "static/js/main.b31d774d.chunk.js"
+    "static/js/main.791c180e.chunk.js"
   ]
 }
