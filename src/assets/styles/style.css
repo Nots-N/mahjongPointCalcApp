@@ -1,0 +1,57 @@
+.selectButtons{
+    display: flex;
+}
+
+.selectHai{
+    display: flex;
+    align-items: baseline;
+}
+
+.selectHai img{
+    max-width: 100%;
+    height: auto;
+}
+
+div.resultWindowButton{
+    position: fixed;
+    right:30px;
+    bottom:30px;
+    width: auto;
+    background-color: grey;
+    border-radius:5px;
+}
+div.resetButton{
+    position: fixed;
+    right:30px;
+    bottom:calc(30px + 3em);
+    width: auto;
+    border-radius:5px;
+}
+
+div.cautionStr{
+    color:red;
+    font-weight: 700;
+}
+
+div.textButton{
+    margin: 3px;
+}
+
+div.flexWrap{
+    display:flex;
+    flex-wrap: wrap;
+}
+.flexItem{
+    box-sizing: border-box;
+    text-align: center;
+    padding: 3px 5px;
+}
+
+.haiSelectTabsWrap{
+    margin: auto 5px;
+    max-width: 1000px;
+}
+
+div.appBodyWrapper{
+    padding-bottom:calc(30px + 6em);
+}
