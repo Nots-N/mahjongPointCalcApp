@@ -5,7 +5,7 @@
 本アプリケーションは麻雀の符点計算を自動で行うためのWEBサイトです。  
   
 ## URL  
-https://nots-n.github.io/mahjongPointCalcApp/index.html  
+https://nots-n.github.io/mahjongPointCalcApp/  
   
 ## 利用方法
 設定画面にて対局設定、状況役設定、牌設定を行います。  
