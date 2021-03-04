@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mahjongPointCalcApp/static/css/main.afddd0f4.chunk.css",
-    "main.js": "/mahjongPointCalcApp/static/js/main.791c180e.chunk.js",
-    "main.js.map": "/mahjongPointCalcApp/static/js/main.791c180e.chunk.js.map",
+    "main.css": "/mahjongPointCalcApp/static/css/main.3ecad9b4.chunk.css",
+    "main.js": "/mahjongPointCalcApp/static/js/main.575aae88.chunk.js",
+    "main.js.map": "/mahjongPointCalcApp/static/js/main.575aae88.chunk.js.map",
     "runtime-main.js": "/mahjongPointCalcApp/static/js/runtime-main.64ac16f4.js",
     "runtime-main.js.map": "/mahjongPointCalcApp/static/js/runtime-main.64ac16f4.js.map",
     "static/js/2.bac9bbc6.chunk.js": "/mahjongPointCalcApp/static/js/2.bac9bbc6.chunk.js",
     "static/js/2.bac9bbc6.chunk.js.map": "/mahjongPointCalcApp/static/js/2.bac9bbc6.chunk.js.map",
     "index.html": "/mahjongPointCalcApp/index.html",
-    "static/css/main.afddd0f4.chunk.css.map": "/mahjongPointCalcApp/static/css/main.afddd0f4.chunk.css.map",
+    "static/css/main.3ecad9b4.chunk.css.map": "/mahjongPointCalcApp/static/css/main.3ecad9b4.chunk.css.map",
     "static/js/2.bac9bbc6.chunk.js.LICENSE.txt": "/mahjongPointCalcApp/static/js/2.bac9bbc6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.64ac16f4.js",
     "static/js/2.bac9bbc6.chunk.js",
-    "static/css/main.afddd0f4.chunk.css",
-    "static/js/main.791c180e.chunk.js"
+    "static/css/main.3ecad9b4.chunk.css",
+    "static/js/main.575aae88.chunk.js"
   ]
 }
