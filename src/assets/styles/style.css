@@ -55,3 +55,7 @@ div.flexWrap{
 div.appBodyWrapper{
     padding-bottom:calc(30px + 6em);
 }
+
+div.resultWindowCancelButton{
+    text-align: center;
+}

@@ -133,6 +133,10 @@ const ResultWindow = (props)=>{
                         {/**副露の牌リスト */}
                         副露：<HuroHaiList select={props.selectHuro} huro={props.haiListHuro} /> 
                         <br/>
+                        <br/>
+                        <div className="resultWindowCancelButton">
+                            <SelectButtonsComponent label={"閉じる"} color={"default"} setNum={1} select={handleClose} />
+                        </div>
                     </div>
                 </Fade>
             </Modal>
